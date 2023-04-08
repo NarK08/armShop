@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Noto Sans Runic
+- Font Author: Copyright 2017 Google Inc. All Rights Reserved.
+- Font Source: http://fonts.gstatic.com/s/notosansrunic/v15/H4c_BXWPl9DZ0Xe_nHUaus7W68WWaxpvHtgIYg.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
